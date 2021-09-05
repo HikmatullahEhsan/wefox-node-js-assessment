@@ -1,4 +1,4 @@
-# wefox-node-js-assessment
+# Wefox-node-js-assessment
 A demo application developed with NodeJS
 
 ## How to install? 
@@ -22,6 +22,7 @@ http:localhost:3000/api-docs
 ## Requirements
 * Node v0.10.32 or above
 * Express 4 or above
+* MongoDB
 
 ## Testing
 
