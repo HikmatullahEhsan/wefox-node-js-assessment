@@ -10,7 +10,7 @@ $ npm install
 $ npm start 
 ```
 
-## Creating .env file with four these properties and initialize values related to your environment
+## Creating an .env file with these properties and initialize their values related to your environment
 ```javascript
 API_PORT            = null
 MONGO_URI           = null
@@ -31,6 +31,10 @@ http:\\localhost:3000/api-docs
 ## Testing
 
 * `npm install`
-* `npm test`
+* `npm test
+
+
+
+
 
 
