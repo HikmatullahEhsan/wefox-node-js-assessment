@@ -19,7 +19,7 @@ OPEN_WEATHER_API_ID = null
 ```
 
 ## OpenAPI Swagger Documentation 
-```javascript
+```bash
 http://localhost:3000/api-docs
 ```
 
@@ -32,6 +32,13 @@ http://localhost:3000/api-docs
 
 * `npm install`
 * `npm test
+
+
+## Docker Image 
+```bash
+https://hub.docker.com/r/hekmat21/wefox-node-assessment
+```
+
 
 
 
