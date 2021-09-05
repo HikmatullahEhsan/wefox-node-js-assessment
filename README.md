@@ -20,7 +20,7 @@ OPEN_WEATHER_API_ID = null
 
 ## OpenAPI Swagger Documentation 
 ```javascript
-http:\\localhost:3000/api-docs
+http://localhost:3000/api-docs
 ```
 
 ## Requirements
